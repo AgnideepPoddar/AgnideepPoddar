@@ -10,6 +10,11 @@
    - HSBC Investment Banking Simulation  
    - Coursera UX Design Foundations - 96.66%  
 
+## 📊 GitHub Stats  
+
+![Agnideep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agnideep-Poddar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnideep-Poddar&layout=compact&theme=radical)  
+
 ## 🔭 Projects I'm Working On  
 - **AI-Powered Traffic Management System**  
 - **Generative AI for Building Design**  
@@ -17,3 +22,4 @@
 
 ## 📬 Let's Connect  
 - 🌐 [Portfolio](#) | [LinkedIn](#) | [Email](#)  
+- 💡 Fun fact: I love solving water jug puzzles and exploring semantic networks!  
