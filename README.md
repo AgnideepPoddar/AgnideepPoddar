@@ -17,4 +17,3 @@
 
 ## 📬 Let's Connect  
 - 🌐 [Portfolio](#) | [LinkedIn](#) | [Email](#)  
-- 💡 Fun fact: I love solving water jug puzzles and exploring semantic networks!  
