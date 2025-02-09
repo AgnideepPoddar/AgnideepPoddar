@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats  
 
-![Agnideep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agnideep-Poddar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnideep-Poddar&layout=compact&theme=radical)  
+![Agnideep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgnideepPoddar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnideepPoddar&layout=compact&theme=radical)  
 
 ## 🔭 Projects I'm Working On  
 - **AI-Powered Traffic Management System**  
