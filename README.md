@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 - 💻 Skilled in: **Java, Python, C++, C#, SQL, Node.js**  
 - 🌐 Experienced with: **Web technologies (HTML, CSS, JavaScript, AJAX)**  
-- 🌱 Currently exploring AI for **smart buildings** and **traffic management systems**  
+- 🌱 Currently exploring 
 - 🏆 **Achievements**:  
    -   
 
