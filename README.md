@@ -22,5 +22,5 @@
 - **Hyperledger Fabric Chaincode Development**  
 
 ## 📬 Let's Connect  
-- 🌐 [Portfolio](https://portfolio-agnideep.vercel.app) | [Email](mailto:your-email@example.com)  
+- 🌐 [Portfolio](https://portfolio-agnideep.vercel.app) | [Email](mailto:agnideeppoddar2004@gmail.com)  
 - 💡 Fun fact: I love solving water jug puzzles and exploring semantic networks!  
