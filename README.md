@@ -10,6 +10,12 @@
 
 ## 📊 GitHub Stats
 
+![Agnideep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgnideepPoddar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnideepPoddar&layout=compact&theme=radical)
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgnideepPoddar&show_icons=true&theme=radical&hide_border=true" alt="Agnideep's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnideepPoddar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
